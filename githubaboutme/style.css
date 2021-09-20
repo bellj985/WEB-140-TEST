@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(desert_marpat.jpg);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-color: tan;
+    
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    background-color: tan;
+    border: 3px solid black;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+.top_p{
+    text-align: center;
+    padding: 20px;
+    text-align: center;
+    width: 40%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    background-color: tan;
+    border: 3px solid black;
+    font-weight: bolder;
+}
+
+.main_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+    padding-top: 20px;
+    
+}
+
+.bottom_p{
+    text-align: center;
+    width: 40%;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: tan;
+    border: 3px solid black;
+    font-weight: bolder;
+}
